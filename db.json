@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Mohamedali",
+      "name": "Mohamed ali rezgui",
+      "bio": "premier utilisateur pour le PFE"
+    },
+    {
+      "id": 2,
+      "username": "Sirine",
+      "name": "Sirine sirine",
+      "bio": "2eme utilisatuer pour le PFE"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "name": "administrateur",
+      "bio": "3eme utilisatuer pour le PFE"
+    },
+    {
+      "id": 4,
+      "username": "user",
+      "name": "user",
+      "bio": "4eme utilisateur"
+    }
+  ],
+
+  "threads": [
+    {
+      "id": 1,
+      "title": "Whatsup?",
+      "createdBy": 4
+    },
+    {
+      "id": 2,
+      "title": "demain l'anniversaire de admin",
+      "createdBy": 3
+    },
+    {
+      "id": 3,
+      "title": "hi",
+      "createdBy": 1
+    }
+  ],
+
+  "posts": [
+    {
+      "thread": 1,
+      "text": "ech 3amel el youm",
+      "user": 4
+    },
+    {
+      "thread": 1,
+      "text": "arje3 ghodwa",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "bech tji?",
+      "user": 3
+    },
+    {
+      "thread": 2,
+      "text": "Licence",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "enchallah nenje77",
+      "user": 1
+    },
+    {
+      "thread": 3,
+      "text": "enchallah!!",
+      "user": 1
+    }
+  ]
+}

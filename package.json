@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "koa": "^1.7.0",
+    "koa-router": "^5.4.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "PFE"
+}
